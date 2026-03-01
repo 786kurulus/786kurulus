@@ -1,5 +1,5 @@
 👋 Welcome to 786kurulus' GitHub
-<a href="https://github.com/786kurulus"> <img align="right" height="220" src=""> </a>
+<a href="https://github.com/786kurulus"> <img align="right" height="220" src="">https://github.com/786kurulus/786kurulus/blob/main/d834224456adf5422c472554e2a1107a.png?raw=true </a>
 
 Hi, I'm 786kurulus — a developer focused on building powerful things🤨
 
