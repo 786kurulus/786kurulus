@@ -1,14 +1,24 @@
 👋 Welcome to 786kurulus' GitHub
 <a href="https://github.com/786kurulus">
 
+
+
+
+
 Hi, I'm 786kurulus — a developer focused on building powerful things🤨
 
 Ima W in Java, Javascript, SQl, Php, C, C++, Rust, React and Python.
+
+
+
 
 🚀 About Me
 
 🔭 Currently Building: Advanced Systems of AI
 🎮 Games: I enjoy Minecraft & tech experiments & Roblox
+
+
+
 
 🛠 Tech Stack
 
