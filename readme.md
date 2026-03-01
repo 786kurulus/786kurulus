@@ -7,9 +7,11 @@ I work across multiple languages and technologies, turning ideas into real, work
 
 # 🚀 About Me
 
-🔭 Currently Building: Advanced AI Systems & smart automation
-🧠 Focused On: Performance, clean architecture & real-world impact
-🎮 Interests: Minecraft, Roblox & tech experiments
+•🔭 Currently Building: Advanced AI Systems & smart automation
+
+•🧠 Focused On: Performance, clean architecture & real-world impact
+
+•🎮 Interests: Minecraft, Roblox & tech experiments
 
 # 🛠 Tech Stack
 💻 Languages & Technologies
