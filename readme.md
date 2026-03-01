@@ -1,12 +1,10 @@
 # 👋 Welcome to 786kurulus's GitHub
 <a href="https://github.com/786kurulus"> <img align="right" height="220" src="https://raw.githubusercontent.com/786kurulus/786kurulus/refs/heads/main/d834224456adf5422c472554e2a1107a.png"> </a>
 
-Hi, I'm 786kurulus — a developer focused on building powerful, scalable, and intelligent systems.
+<strong> Hi, I'm 786kurulus </strong> — a developer focused on building powerful, scalable, and intelligent systems.
 
 I work across multiple languages and technologies, turning ideas into real, working products.
-|
-|
-|
+
 # 🚀 About Me
 
 •🔭 Currently Building: Advanced AI Systems & smart automation
