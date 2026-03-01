@@ -3,7 +3,7 @@
 
 <strong> Hi, I'm 786kurulus </strong> — a developer focused on building powerful, scalable, and intelligent systems.
 
-I work across multiple languages and technologies, turning ideas into real, working products.
+I work across multiple languages and technologies, turning ideas into real, working products, building something that would last.
 
 # 🚀 About Me
 
