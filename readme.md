@@ -4,7 +4,9 @@
 Hi, I'm 786kurulus — a developer focused on building powerful, scalable, and intelligent systems.
 
 I work across multiple languages and technologies, turning ideas into real, working products.
-
+|
+|
+|
 # 🚀 About Me
 
 •🔭 Currently Building: Advanced AI Systems & smart automation
